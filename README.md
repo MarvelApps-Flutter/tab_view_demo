@@ -1,5 +1,5 @@
 # Flutter TabView Module
-A new flutter app for demonstrating WebView.
+A new flutter app for demonstrating TabView.
 
 # Android Screenshots
 
