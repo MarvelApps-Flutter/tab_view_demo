@@ -42,7 +42,7 @@ A new flutter app for demonstrating TabView.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/webview_demo/blob/dev/working_demo/tabview_demo.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/tab_view_demo/blob/dev/working_demo/tabview_demo.gif" height="480px"></td>
     </tr>
   </table>
 
