@@ -1,6 +1,13 @@
 # Flutter TabView Module
 A new flutter app for demonstrating TabView.
 
+# Demo
+  <table>
+  <tr>
+  <td><img src="https://github.com/MarvelApps-Flutter/tab_view_demo/blob/dev/working_demo/tabview_demo.gif" height="480px"></td>
+    </tr>
+  </table>
+
 # Android Screenshots
 
 <table>
@@ -39,10 +46,5 @@ A new flutter app for demonstrating TabView.
   </tr>
  </table>
 
- # Demo
-  <table>
-  <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/tab_view_demo/blob/dev/working_demo/tabview_demo.gif" height="480px"></td>
-    </tr>
-  </table>
+ 
 
