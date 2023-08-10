@@ -5,19 +5,19 @@ import 'package:tabview_flutter_module/screens/screen_one.dart';
 import 'package:tabview_flutter_module/screens/screen_three.dart';
 import 'package:tabview_flutter_module/screens/screen_two.dart';
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  const HomePage({Key? key}) : super(key: key);
 
   @override
-  State<MyHomePage> createState() => _MyHomePageState();
+  State<HomePage> createState() => _HomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage>
+class _HomePageState extends State<HomePage>
     with SingleTickerProviderStateMixin {
   late TabController tabController;
   @override
   void initState() {
-    tabController = TabController(length: 4, vsync: this);
+    tabController = TabController(length: 4, vsync: this, initialIndex: 0);
     tabController.addListener(() {
       setState(() {});
     });

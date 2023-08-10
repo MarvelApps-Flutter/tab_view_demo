@@ -47,7 +47,7 @@ class SplashScreenState extends State<SplashScreen>
   Future wait() async {
     await Future.delayed(const Duration(seconds: 6));
     Navigator.pushReplacement(
-        context, MaterialPageRoute(builder: (context) => const MyHomePage()));
+        context, MaterialPageRoute(builder: (context) => const HomePage()));
   }
 
   @override
